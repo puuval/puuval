@@ -2,6 +2,6 @@
 
 Name is Valtteri
 
-Living in Pori, Finland
+Living in Turku, Finland
 
 Student
