@@ -1,7 +1,3 @@
-... nothing much to see here
+Computer science student at University of Turku
 
-Name is Valtteri
-
-Living in Turku, Finland
-
-Student
+Personal and group projects
